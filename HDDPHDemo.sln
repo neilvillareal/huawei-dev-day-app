@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDDPHDemo.Android", "HDDPHDemo.Android\HDDPHDemo.Android.csproj", "{A17D62F0-00D6-4879-8515-BDCFA27E4CA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDDPHDemo", "HDDPHDemo\HDDPHDemo.csproj", "{78DD0918-E7D8-44B2-BB8D-E092BBF0CCC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDDPHDemo.Bindings", "HDDPHDemo.Bindings\HDDPHDemo.Bindings.csproj", "{FE61B643-E2CE-4F85-BF73-9001FA4D6304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A17D62F0-00D6-4879-8515-BDCFA27E4CA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A17D62F0-00D6-4879-8515-BDCFA27E4CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A17D62F0-00D6-4879-8515-BDCFA27E4CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A17D62F0-00D6-4879-8515-BDCFA27E4CA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78DD0918-E7D8-44B2-BB8D-E092BBF0CCC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78DD0918-E7D8-44B2-BB8D-E092BBF0CCC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78DD0918-E7D8-44B2-BB8D-E092BBF0CCC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78DD0918-E7D8-44B2-BB8D-E092BBF0CCC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE61B643-E2CE-4F85-BF73-9001FA4D6304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE61B643-E2CE-4F85-BF73-9001FA4D6304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE61B643-E2CE-4F85-BF73-9001FA4D6304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE61B643-E2CE-4F85-BF73-9001FA4D6304}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
